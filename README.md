@@ -71,7 +71,7 @@ Returns `True` if an ad was shown, `False` otherwise. **Never raises exceptions*
 
 - [Website](https://chanify.online)
 - [Documentation](https://chanify.online/docs)
-- [npm package](https://npmjs.com/package/chanify)
+- [npm package](https://www.npmjs.com/package/@chanify/sdk)
 - [Packagist package](https://packagist.org/packages/chanify/sdk)
 
 ## License
