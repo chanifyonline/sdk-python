@@ -1,0 +1,19 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "chanify"
+version = "0.1.0"
+description = "Official Chanify SDK - monetize your Telegram bot with ads"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [{ name = "Chanify", email = "hello@chanify.online" }]
+keywords = ["telegram", "bot", "ads", "monetization", "chanify"]
+dependencies = ["httpx>=0.24.0"]
+
+[project.urls]
+Homepage = "https://chanify.online"
+Repository = "https://github.com/chanifyonline/sdk-python"
+Documentation = "https://chanify.online/docs"
